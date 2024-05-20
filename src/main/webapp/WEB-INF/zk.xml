@@ -9,5 +9,20 @@
 		<value>zkFinalProject</value>
 	</preference>
 	-->
+	<listener>
+		<description>Spring Context Loader Listener</description>
+		<listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
+	</listener>
+
+	<listener>
+		<description>ZK Spring Context Configuration</description>
+		<listener-class>org.zkoss.spring.web.context.request.ZkServletRequestListener</listener-class>
+	</listener>
+
+	<variable-resolver>
+		<description>ZK Spring Delegating Variable Resolver</description>
+		<variable-resolver-class>org.zkoss.zkplus.spring.DelegatingVariableResolver</variable-resolver-class>
+	</variable-resolver>
+
 	
 </zk>

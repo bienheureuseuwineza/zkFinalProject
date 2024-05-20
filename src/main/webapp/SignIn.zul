@@ -1,0 +1,9 @@
+<zk>
+    <window title="Sign In" border="normal" apply="org.zkoss.bind.BindComposer" viewModel="@id('vm') @init('org.student.registration.MyViewModel')">
+        <vlayout>
+            <textbox value="@bind(vm.email)" placeholder="Email"/>
+            <textbox value="@bind(vm.password)" placeholder="Password" type="password"/>
+            <button label="Login" onClick="@command('login')"/>
+        </vlayout>
+    </window>
+</zk>

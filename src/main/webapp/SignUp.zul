@@ -1,0 +1,12 @@
+<zk>
+<window apply="org.zkoss.bind.BindComposer"
+        viewModel="@id('vm')@init('org.student.registration.MyViewModel')">
+    <vlayout>
+        <textbox value="@bind(vm.name)" placeholder="Name"/>
+        <textbox value="@bind(vm.email)" placeholder="Email"/>
+        <textbox value="@bind(vm.password)" placeholder="Password" type="password"/>
+        <textbox value="@bind(vm.confirmPassword)" placeholder="Confirm Password" type="password"/>
+        <button label="Register" onClick="@command('registerUser')"/>
+    </vlayout>
+</window>
+</zk>
