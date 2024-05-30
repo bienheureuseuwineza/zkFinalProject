@@ -10,28 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bdcc578a-94c3-4764-ab93-29577865c85c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/student/registration/Dao/IStudentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/student/registration/Dao/IStudentDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/student/registration/Dao/IUserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/student/registration/Dao/IUserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/student/registration/Dao/StudentImpDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/student/registration/Dao/StudentImpDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/student/registration/Dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/student/registration/Dao/UserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/student/registration/Model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/student/registration/Model/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/student/registration/Model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/student/registration/Model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/student/registration/MyViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/student/registration/MyViewModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/student/registration/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/student/registration/SecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/student/registration/Service/Implementation/StudentServiceImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/student/registration/Service/Implementation/StudentServiceImplementation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/student/registration/Service/Implementation/UserImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/student/registration/Service/Implementation/UserImplementation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/student/registration/Service/Interface/IStudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/student/registration/Service/Interface/IStudentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/student/registration/Service/Interface/IUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/student/registration/Service/Interface/IUserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/SignIn.zul" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/SignIn.zul" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/SignUp.zul" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/SignUp.zul" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/zk.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/zk.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.zul" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.zul" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +28,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -259,11 +242,26 @@
       <workItem from="1713257267149" duration="1862000" />
       <workItem from="1713365584087" duration="4020000" />
       <workItem from="1716202459175" duration="641000" />
-      <workItem from="1716212346968" duration="984000" />
+      <workItem from="1716212346968" duration="1843000" />
+      <workItem from="1716277293274" duration="77000" />
+      <workItem from="1716449184305" duration="884000" />
     </task>
+    <task id="LOCAL-00001" summary="CRUD operation">
+      <option name="closed" value="true" />
+      <created>1716213741117</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716213741117</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CRUD operation" />
+    <option name="LAST_COMMIT_MESSAGE" value="CRUD operation" />
   </component>
 </project>
